@@ -2,13 +2,13 @@
 
 ##  Fonctions de sécurité 
 
-| `require_login()` | Accorde l'accès aux pages pour les utilisateurs connectés |
-| `is_admin()` / `is_prof()` | Contrôle des rôles (accès restreint) |
-| `csrf_protection` | Vérifie la présence de du token |
-| `logs_written` | Présence de journaux de sécurité (`logs/security.log`) |
-| `password_hash()` | Hachage des mots de passe avant insertion |
-| `strip_tags()` | Rejet des balises HTML dans les champs |
-| `duplicate_check` | Vérifie l’existence d’un utilisateur avant création (`SELECT` + `fetch`) |
+- `require_login()` | Accorde l'accès aux pages pour les utilisateurs connectés 
+- `is_admin()` / `is_prof()` | Contrôle des rôles (accès restreint) 
+- `csrf_protection` | Vérifie la présence du token 
+- `logs_written` | Présence de journaux de sécurité (`logs/security.log`) 
+- `password_hash()` | Hachage des mots de passe avant insertion 
+- `strip_tags()` | Rejet des balises HTML dans les champs 
+- `duplicate_check` | Vérifie l’existence d’un utilisateur avant création (`SELECT` + `fetch`) 
 
 ##  Bonnes pratiques 
 

@@ -1,0 +1,123 @@
+[2025-04-14 12:33:53] Échec de connexion pour l'utilisateur: az
+[2025-04-14 12:34:00] Échec de connexion pour l'utilisateur: az
+[2025-04-14 12:34:01] Échec de connexion pour l'utilisateur: az
+[2025-04-14 12:36:38] Connexion réussie pour l'utilisateur: admin
+[2025-04-14 12:36:38] Échec de connexion pour l'utilisateur: ' OR 1=1 --
+[2025-04-14 12:36:39] Déconnexion utilisateur ID: 1
+[2025-04-14 12:41:25] Inscription étudiant pour b
+[2025-04-14 12:42:10] Échec de connexion pour l'utilisateur: ze
+[2025-04-14 12:42:14] Connexion réussie pour l'utilisateur: admin
+[2025-04-14 12:42:36] Déconnexion utilisateur ID: 1
+[2025-04-14 12:43:45] Connexion réussie pour l'utilisateur: a
+[2025-04-14 12:50:43] Déconnexion utilisateur ID: 3
+[2025-04-14 12:50:45] Échec de connexion pour l'utilisateur: <img src="nonexistante.jpg" onerror="alert('XSS')">
+[2025-04-14 12:50:52] Échec de connexion pour l'utilisateur: "><script>alert('XSS')</script>
+[2025-04-14 12:51:00] Échec de connexion pour l'utilisateur: <svg/onload=alert('XSS')>
+[2025-04-14 12:51:08] Échec de connexion pour l'utilisateur: <body onload=alert('XSS')>
+[2025-04-14 12:51:14] Échec de connexion pour l'utilisateur: <iframe src="javascript:alert('XSS');"></iframe>
+[2025-04-14 12:51:19] Échec de connexion pour l'utilisateur: '><img src=x onerror=alert('XSS')>
+[2025-04-14 12:51:26] Échec de connexion pour l'utilisateur: <script>alert(1)</script>
+[2025-04-14 12:51:31] Échec de connexion pour l'utilisateur: <scr<script>ipt>alert('XSS')</scr<script>ipt>
+[2025-04-14 12:51:40] Échec de connexion pour l'utilisateur: <div onclick="alert('XSS Stocké')">Cliquez ici</div>
+[2025-04-14 12:51:47] Échec de connexion pour l'utilisateur: &lt;script&gt;alert('XSS')&lt;/script&gt;
+[2025-04-14 12:51:50] Inscription étudiant pour &lt;script&gt;alert('XSS')&lt;/script&gt;
+[2025-04-14 12:51:52] Connexion réussie pour l'utilisateur: a
+[2025-04-14 12:52:01] Déconnexion utilisateur ID: 3
+[2025-04-14 13:21:47] Inscription étudiant pour ju
+[2025-04-14 13:21:51] Connexion réussie pour l'utilisateur: ju
+[2025-04-14 13:22:06] Déconnexion utilisateur ID: 21
+[2025-04-14 13:22:09] Connexion réussie pour l'utilisateur: a
+[2025-04-14 13:22:25] Modification note étudiant ID 21 par 3
+[2025-04-14 13:22:44] Ajout étudiant par 3 : ki
+[2025-04-14 13:22:47] Déconnexion utilisateur ID: 3
+[2025-04-14 13:22:51] Inscription étudiant pour ki
+[2025-04-14 13:22:53] Connexion réussie pour l'utilisateur: ki
+[2025-04-14 13:22:57] Déconnexion utilisateur ID: 22
+[2025-04-14 13:23:23] Connexion réussie pour l'utilisateur: admin
+[2025-04-14 13:23:51] Création de compte professeur pour b
+[2025-04-14 13:23:53] Déconnexion utilisateur ID: 1
+[2025-04-14 13:23:55] Connexion réussie pour l'utilisateur: b
+[2025-04-14 13:24:30] Connexion réussie pour l'utilisateur: b
+[2025-04-14 13:24:34] Modification note étudiant ID 21 par 23
+[2025-04-14 13:24:41] Déconnexion utilisateur ID: 23
+[2025-04-14 13:24:43] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:24:45] Connexion réussie pour l'utilisateur: ju
+[2025-04-14 13:25:00] Déconnexion utilisateur ID: 21
+[2025-04-14 13:25:32] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:25:34] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:25:35] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:25:36] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:25:38] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:25:39] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:25:43] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:25:59] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:26:00] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:26:01] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:26:02] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:26:03] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:26:09] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:26:11] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:26:12] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:26:15] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:26:16] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:26:17] Échec de connexion pour l'utilisateur: aza
+[2025-04-14 13:26:45] Connexion réussie pour l'utilisateur: admin
+[2025-04-14 13:26:45] Échec de connexion pour l'utilisateur: ' OR 1=1 --
+[2025-04-14 13:26:45] Déconnexion utilisateur ID: 1
+[2025-04-14 13:30:10] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:30:13] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:30:15] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:30:16] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:30:17] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:30:17] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:30:18] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:30:39] Échec de connexion pour l'utilisateur: <script>alert("XSS")</script>
+[2025-04-14 13:30:46] Échec de connexion pour l'utilisateur: &lt;script&gt;alert('XSS')&lt;/script&gt;
+[2025-04-14 13:30:49] Connexion réussie pour l'utilisateur: a
+[2025-04-14 13:31:25] Échec de connexion pour l'utilisateur: <script>alert("XSS")</script>
+[2025-04-14 13:31:32] Échec de connexion pour l'utilisateur: ' OR 1=1 --
+[2025-04-14 13:31:39] Inscription étudiant pour ' OR 1=1 --
+[2025-04-14 13:32:30] Connexion réussie pour l'utilisateur: admin
+[2025-04-14 13:32:30] Échec de connexion pour l'utilisateur: ' OR 1=1 --
+[2025-04-14 13:32:30] Déconnexion utilisateur ID: 1
+[2025-04-14 13:33:32] Échec de connexion pour l'utilisateur: az
+[2025-04-14 13:33:34] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:33:35] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:33:36] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:33:37] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:33:38] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:33:38] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:33:59] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:34:01] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:34:01] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:34:02] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:34:03] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:34:04] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:34:05] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:34:08] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:34:44] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:34:45] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:34:46] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:34:47] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:34:48] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:34:49] 🔐 Blocage IP ::1 après trop de tentatives
+[2025-04-14 13:35:39]  Blocage IP ::1 après trop de tentatives
+[2025-04-14 13:35:52] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:35:54] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:35:55] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:35:56] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:35:57] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:35:58]  Blocage IP ::1 après trop de tentatives
+[2025-04-14 13:36:00]  Blocage IP ::1 après trop de tentatives
+[2025-04-14 13:36:07] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:36:23] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:36:24] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:36:25] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:36:26] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:36:27]  Blocage IP ::1 après trop de tentatives
+[2025-04-14 13:36:39]  Blocage IP ::1 après trop de tentatives
+[2025-04-14 13:36:44] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:36:46] Connexion réussie pour l'utilisateur: a
+[2025-04-14 13:36:48] Échec de connexion pour l'utilisateur: z
+[2025-04-14 13:36:56] Connexion réussie pour l'utilisateur: admin
+[2025-04-14 13:37:52] Déconnexion utilisateur ID: 1
